@@ -1,0 +1,32 @@
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/menu_width"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RadioButton
+        android:id="@+id/radio_0"
+        style="@style/menu_text"
+        android:checked="true"
+        android:text="0" />
+
+    <RadioButton
+        android:id="@+id/radio_1"
+        style="@style/menu_text"
+        android:text="1" />
+
+    <RadioButton
+        android:id="@+id/radio_2"
+        style="@style/menu_text"
+        android:text="2" />
+
+    <RadioButton
+        android:id="@+id/radio_3"
+        style="@style/menu_text"
+        android:text="3" />
+
+    <RadioButton
+        android:id="@+id/radio_4"
+        style="@style/menu_text"
+        android:text="4" />
+
+</RadioGroup>

@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SlideUiPattern</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_open_close">Open/Close</string>
+    <string name="title_activity_slide_ui">SlideUIActivity</string>
+
+</resources>
